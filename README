@@ -1,0 +1,2 @@
+Everything in the generating partition trees should be functional on a Jupyter or a Sage kernel. 
+The code is written in Python 3.7 with networkx and numpy libraries 
